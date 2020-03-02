@@ -1,0 +1,16 @@
+.welcomebx .welcome_titlecolumn,
+.welcomebx .welcome_contentcolumn,
+#pagearea .container, 
+#pagearea-services .container, 
+#section1 .container,
+#section2 .container, 
+#section3 .container, 
+#section4 .container,
+#section5 .container,
+#section6 .container,
+#section7 .container,
+#section8 .container,
+#section9 .container,
+#section10 .container{ 
+visibility:hidden;
+}
